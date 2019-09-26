@@ -1,0 +1,38 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>image-0387</filename>
+  <path>C:\Users\Manas\Desktop\abg files-20190925T111257Z-001\abg files\Images\image-0387.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>HMV</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>932</xmin>
+      <ymin>1</ymin>
+      <xmax>1170</xmax>
+      <ymax>175</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>HMV</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>504</xmin>
+      <ymin>16</ymin>
+      <xmax>673</xmax>
+      <ymax>363</ymax>
+    </bndbox>
+  </object>
+</annotation>
